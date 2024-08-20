@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from 'react'
 import { AiOutlineMail, AiOutlineMenu, AiOutlineProject } from 'react-icons/ai'
 import { AiOutlineHome } from 'react-icons/ai'
-import { GrCertificate } from 'react-icons/bs'
+import { GrCertificate } from 'react-icons/gr'
 import { GrProjects } from 'react-icons/gr'
 
 export default function Sidenav() {
